@@ -10,4 +10,4 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 }
-//what the fuck
+//what the fuck #2
